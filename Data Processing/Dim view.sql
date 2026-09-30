@@ -1,0 +1,1 @@
+SELECT * FROM vw_financial_ratios LIMIT 10;
